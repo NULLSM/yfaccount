@@ -1,2 +1,2 @@
-# your freedom account
-Your freedom freeform account
+#Your freedom freeform account
+- create account quickly
